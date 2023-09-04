@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hi 👋! My name is Ayoub Bioussoufa and I'm a 1337 student, from Morocco.</h1>
+<h2 align="left">Hi 👋! My name is Ayoub Bioussoufa and I'm a 1337 student, from Morocco.</h2>
 
 [![MasterHead](https://2.bp.blogspot.com/-STtWHA15VHg/Xd2y2ZjJmeI/AAAAAAAARvc/5kqn4SuOfdwGeQ7a6pSNZ5iBu5GheiwBgCLcBGAsYHQ/w919/mario-pixel-art-digital-art-nintendo-computer-uhdpaper.com-4K-4.2038-wp.thumbnail.jpg)](https://github.com/)
 
@@ -24,6 +24,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
+
+[![aybiouss's 42 stats](https://badge.mediaplus.ma/greenbinary/aybiouss)](https://github.com/aybiouss/badge42)
 
 ###
 
