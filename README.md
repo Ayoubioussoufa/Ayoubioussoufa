@@ -2,7 +2,7 @@
 
 Software engineering student at [1337](https://1337.ma) (42 Network) in Morocco. I learn by building the real thing: I've written my own shell, my own HTTP server, and now my own online judge.
 
-[![My stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,tailwind,prisma,postgres,redis,docker,githubactions,linux,c,cpp,py,git&perline=9)](https://skillicons.dev)
+[![My stack](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,tailwind,prisma,postgres,redis,docker,githubactions,linux,c,cpp,py,git&perline=9)](https://skillicons.dev)
 
 ### 🏟️ [CodeArena](https://github.com/Ayoubioussoufa/codearena)
 
