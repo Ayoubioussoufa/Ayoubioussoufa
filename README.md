@@ -1,23 +1,30 @@
-Hi, I'm Ayoub, a backend engineer and a student at [1337](https://1337.ma) (the 42 Network) in Morocco.
+### Hi, I'm Ayoub 👋
 
-I like the parts of a system nobody sees: queues, sandboxes, query plans, and the tests that prove they hold. These days that means TypeScript, NestJS, PostgreSQL, Redis and Docker; before that it was C and C++ at 42.
+Software engineering student at [1337](https://1337.ma) (42 Network) in Morocco. I learn by building the real thing: I've written my own shell, my own HTTP server, and now my own online judge.
 
-### What I'm building
+[![My stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,tailwind,prisma,postgres,redis,docker,githubactions,linux,c,cpp,py,git&perline=9)](https://skillicons.dev)
 
-**[CodeArena](https://github.com/Ayoubioussoufa/codearena)**: a competitive programming platform with its own judge. Submissions go through a BullMQ queue to a worker that runs each one in a locked-down Docker container: no network, a read-only filesystem, every capability dropped, memory and PID limits. Six attack programs run against the sandbox in CI. NestJS, Next.js, PostgreSQL, Redis.
+### 🏟️ [CodeArena](https://github.com/Ayoubioussoufa/codearena)
 
-**[CyberDojo](https://github.com/Ayoubioussoufa/cyberdojo)**: a cybersecurity course from zero to Master's level, on the web ([live demo](https://cyberdojo-beta.vercel.app)) and as a desktop app whose AI tutor runs on your own machine.
+An online judge that runs strangers' code without letting it out. Every submission goes through a queue to a worker that locks it in a Docker container: no network, no Linux capabilities, a read-only disk. On every CI run, six attack programs (a fork bomb, a 4 GB allocation, a network call, a filesystem escape…) try to break out. None has made it yet.
 
-Next for CodeArena: deployment with HTTPS and CI/CD, then an AI hint for failed submissions, on a self-hosted model with retrieval over my own notes and evals that run in CI.
+Next up: shipping it with HTTPS and CI/CD, then an AI hint for failed submissions, running on a model I host myself.
 
-### From 42
+### 🛡️ [CyberDojo](https://github.com/Ayoubioussoufa/cyberdojo) · [try it live](https://cyberdojo-beta.vercel.app)
 
-- [Webserv](https://github.com/Ayoubioussoufa/Webserv): an HTTP/1.1 server in C++98, with CGI
-- [Minishell](https://github.com/Ayoubioussoufa/Minishell): a Unix shell in C, with pipes, redirections and environment variables
-- [Inception](https://github.com/Ayoubioussoufa/Inception): NGINX, WordPress and MariaDB, each in its own Docker image, wired with Compose
-- [Philosophers](https://github.com/Ayoubioussoufa/Philosophers): the dining philosophers, with threads and mutexes
+A cybersecurity course that goes from zero to Master's level, with hands-on labs and a capture-the-flag dojo. It also ships as a desktop app whose AI tutor runs entirely on your own computer.
 
-### Elsewhere
+### 🧱 Built from scratch at 42
+
+| | |
+| --- | --- |
+| [**Minishell**](https://github.com/Ayoubioussoufa/Minishell) | bash, rebuilt in C: pipes, redirections, environment variables |
+| [**Webserv**](https://github.com/Ayoubioussoufa/Webserv) | an HTTP/1.1 server in C++98, with CGI |
+| [**Inception**](https://github.com/Ayoubioussoufa/Inception) | NGINX, WordPress and MariaDB, each in its own hand-built Docker image |
+| [**Philosophers**](https://github.com/Ayoubioussoufa/Philosophers) | the dining philosophers problem, with threads, mutexes and no data races |
+| [**cub3d**](https://github.com/Ayoubioussoufa/cub3d) | a Wolfenstein-style 3D raycaster |
+
+### 📫 Find me
 
 [LinkedIn](https://www.linkedin.com/in/ayoubbioussoufa/) · [LeetCode](https://leetcode.com/u/01082023/)
 
